@@ -1,18 +1,20 @@
 
 # Contact info:
- meirshakex@gmail.com/0587622350 my linkedin: https://www.linkedin.com/in/shaked-meir-b96171299/
+## email: meirshakex@gmail.com ## phone:0587622350 ## linkedin: https://www.linkedin.com/in/shaked-meir-b96171299/
  
 # Objective:
 
 Dedicated and motivated second-year Electrical Engineering student with a strong academic record and a passion for learning. Seeking opportunities to apply theoretical knowledge in a practical setting while contributing positively to a dynamic team.
 
 # Education: 
+
 Ariel University
 Bachelor of Science in Electrical Engineering
 Expected Graduation: [10, 2027]
 GPA: 94/100
 
 # Relevant Coursework:
+
 
 # Skills:
 
