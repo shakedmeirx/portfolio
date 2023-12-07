@@ -1,1 +1,68 @@
-# portfolio
+# 
+
+Certainly! Here's a sample resume for Shaked Meir, a second-year Electrical Engineering student at Ariel University looking to showcase academic achievements and a desire for growth and learning:
+Shaked Meir
+
+[Your Address] | [Your Email] | [Your Phone Number] | [LinkedIn Profile] (if applicable)
+Objective
+
+Dedicated and motivated second-year Electrical Engineering student with a strong academic record and a passion for learning. Seeking opportunities to apply theoretical knowledge in a practical setting while contributing positively to a dynamic team.
+Education
+
+Ariel University
+Bachelor of Science in Electrical Engineering
+Expected Graduation: [Month, Year]
+GPA: 94/100
+
+Relevant Coursework:
+
+    Circuits and Systems
+    Digital Signal Processing
+    Electromagnetics
+    Electronics I & II
+    Power Systems
+
+Skills
+
+    Proficient in MATLAB, C/C++, and Python programming languages
+    Strong understanding of circuit analysis and design principles
+    Familiarity with CAD software for electrical design (e.g., AutoCAD, Altium Designer)
+    Problem-solving and analytical skills honed through coursework and projects
+    Excellent communication and teamwork abilities demonstrated in group projects
+
+Projects
+
+Design and Implementation of [Project Name]
+
+    Led a team of [number] to develop [brief description of the project]
+    Utilized [specific tools or methodologies] to achieve project goals
+    Presented project findings and outcomes to faculty members
+
+Digital Signal Processing Project: [Project Title]
+
+    Investigated and implemented [specific DSP techniques or algorithms]
+    Analyzed results through simulations and practical experimentation
+    Documented findings in a comprehensive report and presentation
+
+Experience
+
+This section can include internships, part-time jobs, volunteering, or relevant extracurricular activities.
+
+Intern - [Company/Organization Name]
+
+    Assisted engineers in [specific tasks or projects related to electrical engineering]
+    Contributed to [tasks, research, or assignments] with attention to detail and accuracy
+    Gained practical experience in [mention any relevant skills or software used]
+
+Certifications
+
+    [Certification Name], Issuing Organization, Year
+
+Extracurricular Activities
+
+    Member of [Engineering Club/Student Society]
+    Volunteer at [Organization/Event Name]
+
+References
+
+Available upon request.
