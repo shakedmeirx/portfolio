@@ -6,6 +6,7 @@ theme: minima
 header_pages:
   - about.md
   - portfolio.md
-    social_links:
+  
+ social_links:
    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
