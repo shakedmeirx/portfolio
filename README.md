@@ -1,7 +1,7 @@
 
 # Contact info:
 ## email: meirshakex@gmail.com 
-## phone:0587622350 
+## phone:  0587622350 
 ## linkedin: https://www.linkedin.com/in/shaked-meir-b96171299/
  
 # Objective:
