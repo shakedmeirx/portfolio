@@ -1,5 +1,5 @@
 
-# contact info:
+# Contact info:
  meirshakex@gmail.com/0587622350 my linkedin: https://www.linkedin.com/in/shaked-meir-b96171299/
  
 # Objective:
