@@ -1,26 +1,19 @@
-# 
 
-Certainly! Here's a sample resume for Shaked Meir, a second-year Electrical Engineering student at Ariel University looking to showcase academic achievements and a desire for growth and learning:
-Shaked Meir
 
-[Your Address] | [Your Email] | [Your Phone Number] | [LinkedIn Profile] (if applicable)
+ meirshakex@gmail.com/0587622350 my linkedin: https://www.linkedin.com/in/shaked-meir-b96171299/
+ 
 Objective
 
 Dedicated and motivated second-year Electrical Engineering student with a strong academic record and a passion for learning. Seeking opportunities to apply theoretical knowledge in a practical setting while contributing positively to a dynamic team.
+
 Education
 
 Ariel University
 Bachelor of Science in Electrical Engineering
-Expected Graduation: [Month, Year]
+Expected Graduation: [10, 2027]
 GPA: 94/100
 
 Relevant Coursework:
-
-    Circuits and Systems
-    Digital Signal Processing
-    Electromagnetics
-    Electronics I & II
-    Power Systems
 
 Skills
 
